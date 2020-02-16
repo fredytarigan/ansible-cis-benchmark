@@ -27,7 +27,7 @@ If you are running those mentioned above Linux distribution, then this role atte
 
 ## Special Consideration
 
-***[ DANGER !!! ]*** 
+**[ ===== DANGER !!! ===== ]**
 
 Please do not run this ansible roles blindly on an active system.
 
