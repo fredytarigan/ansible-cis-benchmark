@@ -19,15 +19,13 @@ CIS Benchmark security version :
 
 This role was developed and tested against all related operating system.
 
-Why Would I Use This Role ?
-===========================
+## Why Would I Use This Role ?
 
 If you are attempting to obtain compliance against an industry-accepted security standard, like PCI DSS, APRA or ISO 27001, then you need to demonstrate that you have applied documented hardening standards against all systems within scope of assessment.
 
 If you are running those mentioned above Linux distribution, then this role attempts to provide one piece of the solution to the compliance puzzle.
 
-Special Consideration
-=====================
+## Special Consideration
 
 ***[ DANGER !!! ]*** 
 
