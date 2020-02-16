@@ -63,7 +63,7 @@ WIP
 
 ## License
 
-WIP
+GNU General Public License v3.0 or later
 
 ## Author Information
 
