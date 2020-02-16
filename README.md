@@ -67,4 +67,4 @@ GNU General Public License v3.0 or later
 
 ## Author Information
 
-This role was developed by [https://www.linkedin.com/in/fredy-samuel-b-tarigan-72a527111/](Fredy Tarigan)
+This role was developed by [Fredy Samuel B. Tarigan](https://www.linkedin.com/in/fredy-samuel-b-tarigan-72a527111/)
