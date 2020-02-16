@@ -61,6 +61,10 @@ WIP
 
 WIP
 
+## How To Contribute
+
+If you feel this roles can be better or you found any issue(s), please submit your [Pull Requests](https://github.com/fredytarigan/ansible-cis-benchmark/pulls) or [Github Issues](https://github.com/fredytarigan/ansible-cis-benchmark/issues).
+
 ## License
 
 GNU General Public License v3.0 or later
