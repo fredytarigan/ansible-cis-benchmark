@@ -36,3 +36,35 @@ This roles will make a serious modification to your system that could affect its
 The safest step is to run this roles on a new and fresh machine, and then you will have time to inspect what could be wrong after running this roles.
 
 You don't want to debugging something you didn't know in production system right ? :D
+
+## Example Playbook
+
+WIP
+
+## Role Variables
+
+WIP
+
+## Role Options
+
+WIP
+
+## Limitations
+
+WIP
+
+## Compatibility
+
+WIP
+
+## Testing
+
+WIP
+
+## License
+
+WIP
+
+## Author Information
+
+This role was developed by [https://www.linkedin.com/in/fredy-samuel-b-tarigan-72a527111/] (Fredy Tarigan)
