@@ -7,6 +7,10 @@ Ansible roles that setup CIS Security Benchmark to a system running :
 * **Debian 10**
 * **Ubuntu 18.04**
 
+This repository is highly inspired by Ansible Roles by [Anth Courtney](https://github.com/anthcourtney/ansible-role-cis-amazon-linux).
+
+All credits should be goes to him.
+
 The implementation has been converted from CIS Benchmark document to ansible roles.
 
 CIS Benchmark security version :

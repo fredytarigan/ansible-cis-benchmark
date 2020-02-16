@@ -1,2 +1,15 @@
 ---
 # tasks file for cis-benchmark
+
+- name: run pretask
+  include_tasks: pretask.yml
+  
+- name: run level 1 task
+  include_tasks: level-1.yml
+  when:
+    - cis_apply_level_1_profile
+
+- name: run level 2 task
+  include_tasks: level-2.yml
+  when:
+    - cis_apply_level_2_profile

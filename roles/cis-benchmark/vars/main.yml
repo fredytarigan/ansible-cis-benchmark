@@ -1,2 +1,11 @@
 ---
 # vars file for cis-benchmark
+
+cis_target_os_distribution:
+  - "CentOS"
+  - "Debian"
+  - "Ubuntu"
+cis_target_os_distribution_version:
+  - "7.7"
+  - "18.04"
+  - "10"
