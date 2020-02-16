@@ -27,7 +27,7 @@ If you are running those mentioned above Linux distribution, then this role atte
 
 ## Special Consideration
 
-***[ DANGER !!! ]*** 
+**[ ===== DANGER !!! ===== ]**
 
 Please do not run this ansible roles blindly on an active system.
 
@@ -36,3 +36,39 @@ This roles will make a serious modification to your system that could affect its
 The safest step is to run this roles on a new and fresh machine, and then you will have time to inspect what could be wrong after running this roles.
 
 You don't want to debugging something you didn't know in production system right ? :D
+
+## Example Playbook
+
+WIP
+
+## Role Variables
+
+WIP
+
+## Role Options
+
+WIP
+
+## Limitations
+
+WIP
+
+## Compatibility
+
+WIP
+
+## Testing
+
+WIP
+
+## How To Contribute
+
+If you feel this roles can be better or you found any issue(s), please submit your [Pull Requests](https://github.com/fredytarigan/ansible-cis-benchmark/pulls) or [Github Issues](https://github.com/fredytarigan/ansible-cis-benchmark/issues).
+
+## License
+
+GNU General Public License v3.0 or later
+
+## Author Information
+
+This role was developed by [Fredy Samuel B. Tarigan](https://www.linkedin.com/in/fredy-samuel-b-tarigan-72a527111/)
